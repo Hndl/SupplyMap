@@ -1,0 +1,19 @@
+{
+  "name": "supplydrop",
+  "version": "1.0.0",
+  "description": "TT 2017-12 Problem",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hndl",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "http": "0.0.0"
+  }
+}
